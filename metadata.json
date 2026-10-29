@@ -1,0 +1,6 @@
+{
+  "name": "Cricket AI - T20 World Cup Intelligence & Simulation Hub",
+  "description": "Premium interactive cricket intelligence platform with real-time match simulation, AI coach decisions, Monte Carlo predictions, and tactical analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
