@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 300" width="420" height="300">
+  <!-- Silver Fern Fronds -->
+  <g fill="#FFFFFF" stroke="#111111" stroke-width="1">
+    <path d="M100,240 C160,220 260,150 330,40 C320,65 290,95 260,115 C280,95 305,70 310,55 C270,95 230,130 170,170 C200,140 235,105 240,90 C195,140 160,170 120,210 Z"/>
+    <path d="M140,210 C180,180 230,140 260,95 C250,115 220,145 190,170 Z"/>
+    <path d="M170,180 C210,150 250,115 280,75 C265,95 240,125 215,145 Z"/>
+    <path d="M205,150 C240,120 270,85 295,55 C280,75 260,100 240,120 Z"/>
+  </g>
+  <text x="210" y="260" font-family="sans-serif" font-weight="900" font-size="24" fill="#FFFFFF" text-anchor="middle" letter-spacing="2">NEW ZEALAND</text>
+  <text x="210" y="285" font-family="sans-serif" font-weight="800" font-size="18" fill="#94A3B8" text-anchor="middle" letter-spacing="4">CRICKET</text>
+</svg>

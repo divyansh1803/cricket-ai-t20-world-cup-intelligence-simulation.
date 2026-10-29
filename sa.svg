@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 440" width="380" height="440">
+  <defs>
+    <linearGradient id="saGold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFD700"/>
+      <stop offset="100%" stop-color="#C89600"/>
+    </linearGradient>
+  </defs>
+  <!-- Top Gold Mural Crown -->
+  <path d="M80,80 L80,30 L130,30 L130,55 L190,20 L250,55 L250,30 L300,30 L300,80 Z" fill="url(#saGold)" stroke="#9B7300" stroke-width="3"/>
+  <!-- Main Shield -->
+  <path d="M80,80 C200,80 300,80 300,80 C300,220 250,310 190,350 C130,310 80,220 80,80 Z" fill="#006B36" stroke="url(#saGold)" stroke-width="6"/>
+  <!-- Protea Flower -->
+  <!-- Flower Petals Bowl -->
+  <g fill="url(#saGold)" stroke="#9B7300" stroke-width="2">
+    <path d="M190,130 C160,170 150,230 190,260 C230,230 220,170 190,130 Z"/>
+    <path d="M155,160 C130,195 135,235 170,255 C150,220 145,185 155,160 Z"/>
+    <path d="M225,160 C250,195 245,235 210,255 C230,220 235,185 225,160 Z"/>
+    <path d="M130,185 C110,220 120,245 155,255 C130,235 125,205 130,185 Z"/>
+    <path d="M250,185 C270,220 260,245 225,255 C250,235 255,205 250,185 Z"/>
+  </g>
+  <!-- Lower Banner -->
+  <rect x="60" y="370" width="260" height="45" rx="10" fill="#004D26" stroke="url(#saGold)" stroke-width="4"/>
+  <text x="190" y="402" font-family="sans-serif" font-weight="900" font-size="20" fill="#FFD700" text-anchor="middle" letter-spacing="2">SOUTH AFRICA</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" width="360" height="360">
+  <circle cx="180" cy="180" r="165" fill="#D40000" stroke="#FFD200" stroke-width="8"/>
+  <!-- Red Star behind Zimbabwe Bird -->
+  <polygon points="180,50 205,120 280,120 220,165 245,235 180,190 115,235 140,165 80,120 155,120" fill="#FFD200" stroke="#006400" stroke-width="4"/>
+  <!-- Cricket Wickets in White -->
+  <rect x="150" y="130" width="12" height="90" fill="#FFFFFF"/>
+  <rect x="174" y="130" width="12" height="90" fill="#FFFFFF"/>
+  <rect x="198" y="130" width="12" height="90" fill="#FFFFFF"/>
+  <rect x="145" y="122" width="70" height="8" fill="#FFFFFF" rx="2"/>
+  <text x="180" y="305" font-family="sans-serif" font-weight="900" font-size="22" fill="#FFFFFF" text-anchor="middle" letter-spacing="2">ZIMBABWE</text>
+</svg>

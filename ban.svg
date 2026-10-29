@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 420" width="360" height="420">
+  <!-- Shield with Red Border -->
+  <path d="M180,40 C280,40 310,70 310,190 C310,290 230,345 180,365 C130,345 50,290 50,190 C50,70 80,40 180,40 Z" fill="#D32011"/>
+  <path d="M180,52 C270,52 296,80 296,190 C296,280 225,332 180,352 C135,332 64,280 64,190 C64,80 90,52 180,52 Z" fill="#006A4E"/>
+  <!-- Bengal Tiger Face Motif -->
+  <circle cx="220" cy="170" r="55" fill="#E68A00" stroke="#000000" stroke-width="3"/>
+  <!-- Tiger Stripes -->
+  <path d="M190,145 Q210,135 200,165" stroke="#000000" stroke-width="6" fill="none"/>
+  <path d="M245,145 Q230,135 240,165" stroke="#000000" stroke-width="6" fill="none"/>
+  <ellipse cx="220" cy="195" rx="22" ry="14" fill="#FFFFFF"/>
+  <circle cx="220" cy="190" r="6" fill="#000000"/>
+  <!-- Memorial Monument outline on left -->
+  <polygon points="120,105 130,225 110,225" fill="none" stroke="#FFFFFF" stroke-width="4"/>
+  <polygon points="120,105 145,225 135,225" fill="none" stroke="#FFFFFF" stroke-width="3"/>
+  <!-- Bottom Ribbon with BCB -->
+  <path d="M60,340 Q180,385 300,340 L310,380 Q180,415 50,380 Z" fill="#FCD116" stroke="#D32011" stroke-width="3"/>
+  <text x="180" y="378" font-family="sans-serif" font-weight="900" font-size="20" fill="#006A4E" text-anchor="middle" letter-spacing="1">BCB</text>
+</svg>

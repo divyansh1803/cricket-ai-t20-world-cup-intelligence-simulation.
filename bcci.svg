@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
+  <defs>
+    <radialGradient id="bcciSun" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#F9D678"/>
+      <stop offset="70%" stop-color="#D4A13A"/>
+      <stop offset="100%" stop-color="#B5811A"/>
+    </radialGradient>
+    <linearGradient id="bcciBlue" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1E4DA1"/>
+      <stop offset="100%" stop-color="#122F70"/>
+    </linearGradient>
+  </defs>
+  <!-- 16 Sunburst rays -->
+  <g transform="translate(250, 250)" fill="url(#bcciSun)">
+    <path d="M-28,-190 C-15,-235 0,-248 0,-248 C0,-248 15,-235 28,-190 C45,-215 70,-225 70,-225 C70,-225 55,-195 40,-175 Z" transform="rotate(0.0)"/>
+    <path d="M-28,-190 C-15,-235 0,-248 0,-248 C0,-248 15,-235 28,-190 C45,-215 70,-225 70,-225 C70,-225 55,-195 40,-175 Z" transform="rotate(22.5)"/>
+    <path d="M-28,-190 C-15,-235 0,-248 0,-248 C0,-248 15,-235 28,-190 C45,-215 70,-225 70,-225 C70,-225 55,-195 40,-175 Z" transform="rotate(45.0)"/>
+    <path d="M-28,-190 C-15,-235 0,-248 0,-248 C0,-248 15,-235 28,-190 C45,-215 70,-225 70,-225 C70,-225 55,-195 40,-175 Z" transform="rotate(67.5)"/>
+    <path d="M-28,-190 C-15,-235 0,-248 0,-248 C0,-248 15,-235 28,-190 C45,-215 70,-225 70,-225 C70,-225 55,-195 40,-175 Z" transform="rotate(90.0)"/>
+    <path d="M-28,-190 C-15,-235 0,-248 0,-248 C0,-248 15,-235 28,-190 C45,-215 70,-225 70,-225 C70,-225 55,-195 40,-175 Z" transform="rotate(112.5)"/>
+    <path d="M-28,-190 C-15,-235 0,-248 0,-248 C0,-248 15,-235 28,-190 C45,-215 70,-225 70,-225 C70,-225 55,-195 40,-175 Z" transform="rotate(135.0)"/>
+    <path d="M-28,-190 C-15,-235 0,-248 0,-248 C0,-248 15,-235 28,-190 C45,-215 70,-225 70,-225 C70,-225 55,-195 40,-175 Z" transform="rotate(157.5)"/>
+    <path d="M-28,-190 C-15,-235 0,-248 0,-248 C0,-248 15,-235 28,-190 C45,-215 70,-225 70,-225 C70,-225 55,-195 40,-175 Z" transform="rotate(180.0)"/>
+    <path d="M-28,-190 C-15,-235 0,-248 0,-248 C0,-248 15,-235 28,-190 C45,-215 70,-225 70,-225 C70,-225 55,-195 40,-175 Z" transform="rotate(202.5)"/>
+    <path d="M-28,-190 C-15,-235 0,-248 0,-248 C0,-248 15,-235 28,-190 C45,-215 70,-225 70,-225 C70,-225 55,-195 40,-175 Z" transform="rotate(225.0)"/>
+    <path d="M-28,-190 C-15,-235 0,-248 0,-248 C0,-248 15,-235 28,-190 C45,-215 70,-225 70,-225 C70,-225 55,-195 40,-175 Z" transform="rotate(247.5)"/>
+    <path d="M-28,-190 C-15,-235 0,-248 0,-248 C0,-248 15,-235 28,-190 C45,-215 70,-225 70,-225 C70,-225 55,-195 40,-175 Z" transform="rotate(270.0)"/>
+    <path d="M-28,-190 C-15,-235 0,-248 0,-248 C0,-248 15,-235 28,-190 C45,-215 70,-225 70,-225 C70,-225 55,-195 40,-175 Z" transform="rotate(292.5)"/>
+    <path d="M-28,-190 C-15,-235 0,-248 0,-248 C0,-248 15,-235 28,-190 C45,-215 70,-225 70,-225 C70,-225 55,-195 40,-175 Z" transform="rotate(315.0)"/>
+    <path d="M-28,-190 C-15,-235 0,-248 0,-248 C0,-248 15,-235 28,-190 C45,-215 70,-225 70,-225 C70,-225 55,-195 40,-175 Z" transform="rotate(337.5)"/>
+  </g>
+  <!-- Outer Blue Ring -->
+  <circle cx="250" cy="250" r="170" fill="url(#bcciBlue)" stroke="#D4A13A" stroke-width="6"/>
+  <!-- Outer Gold Beaded Border -->
+  <circle cx="250" cy="250" r="160" fill="none" stroke="#F9D678" stroke-width="4" stroke-dasharray="6 8"/>
+  <!-- Inner Ring Dots -->
+  <circle cx="250" cy="250" r="136" fill="none" stroke="#F9D678" stroke-width="3" stroke-dasharray="5 7"/>
+  <!-- Center Sky Blue Disc -->
+  <circle cx="250" cy="250" r="105" fill="#A4D7F5" stroke="#D4A13A" stroke-width="5"/>
+  <!-- Golden Central 5-Point Star -->
+  <polygon points="250,158 273,222 342,223 286,264 307,329 250,290 193,329 214,264 158,223 227,222" fill="url(#bcciSun)" stroke="#9C6C0F" stroke-width="3"/>
+  <!-- Heart at bottom 6 o'clock -->
+  <path d="M250,388 C242,376 232,382 232,392 C232,402 245,410 250,418 C255,410 268,402 268,392 C268,382 258,376 250,388 Z" fill="#F9D678"/>
+</svg>

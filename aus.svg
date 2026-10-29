@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 480" width="400" height="480">
+  <defs>
+    <linearGradient id="caBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E2E8F0"/>
+      <stop offset="50%" stop-color="#94A3B8"/>
+      <stop offset="100%" stop-color="#64748B"/>
+    </linearGradient>
+    <linearGradient id="caGreen" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#006B36"/>
+      <stop offset="40%" stop-color="#004D26"/>
+      <stop offset="100%" stop-color="#002B15"/>
+    </linearGradient>
+    <radialGradient id="caSun" cx="35%" cy="60%" r="60%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="30%" stop-color="#FFF066"/>
+      <stop offset="60%" stop-color="#E5B800"/>
+      <stop offset="100%" stop-color="#004D26" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <!-- Shield Outer Border -->
+  <path d="M200,20 C320,20 370,60 370,160 C370,290 270,390 200,430 C130,390 30,290 30,160 C30,60 80,20 200,20 Z" fill="url(#caBorder)"/>
+  <!-- Shield Inner Green -->
+  <path d="M200,32 C310,32 355,70 355,160 C355,280 260,375 200,415 C140,375 45,280 45,160 C45,70 90,32 200,32 Z" fill="url(#caGreen)"/>
+  <!-- Sunburst Glow -->
+  <ellipse cx="150" cy="240" rx="160" ry="120" fill="url(#caSun)"/>
+  <!-- Pitch Horizon Strips -->
+  <path d="M100,260 Q170,230 330,250 C290,290 240,320 200,340 Q150,310 100,260 Z" fill="#D4AF37" opacity="0.8"/>
+  <path d="M110,285 Q170,260 290,275 C260,305 230,325 200,335 Q150,315 110,285 Z" fill="#004D26"/>
+  <!-- Southern Cross Stars -->
+  <!-- Top Star -->
+  <polygon points="200,60 205,80 225,85 205,90 200,110 195,90 175,85 195,80" fill="#FFFFFF"/>
+  <!-- Left Star -->
+  <polygon points="120,120 125,138 143,142 125,147 120,165 115,147 97,142 115,138" fill="#FFFFFF"/>
+  <!-- Right Star -->
+  <polygon points="285,115 290,132 308,136 290,141 285,158 280,141 262,136 280,132" fill="#FFFFFF"/>
+  <!-- Center Small Star -->
+  <polygon points="230,170 233,180 243,183 233,186 230,196 227,186 217,183 227,180" fill="#FFFFFF"/>
+  <!-- Bottom Star -->
+  <polygon points="200,270 206,292 228,298 206,304 200,326 194,304 172,298 194,292" fill="#FFFFFF"/>
+  <!-- Subtext -->
+  <text x="200" y="465" font-family="sans-serif" font-weight="900" font-size="24" fill="#1B4332" text-anchor="middle" letter-spacing="4">CRICKET AUSTRALIA</text>
+</svg>

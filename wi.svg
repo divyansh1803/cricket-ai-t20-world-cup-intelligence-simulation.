@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 400" width="360" height="400">
+  <!-- Maroon Shield -->
+  <path d="M180,30 C280,30 310,60 310,170 C310,270 230,335 180,355 C130,335 50,270 50,170 C50,60 80,30 180,30 Z" fill="#7B003A" stroke="#FFCD00" stroke-width="8"/>
+  <!-- Golden Sun -->
+  <circle cx="180" cy="150" r="60" fill="#FFCD00"/>
+  <!-- Green Palm Tree Island -->
+  <path d="M110,240 Q180,210 250,240 L250,265 Q180,245 110,265 Z" fill="#00843D"/>
+  <rect x="175" y="160" width="10" height="75" fill="#5A381E"/>
+  <circle cx="180" cy="150" r="35" fill="#00843D" opacity="0.9"/>
+  <text x="180" y="320" font-family="sans-serif" font-weight="900" font-size="24" fill="#FFFFFF" text-anchor="middle" letter-spacing="2">WEST INDIES</text>
+</svg>

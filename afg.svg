@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 380" width="380" height="380">
+  <!-- Outer Ring -->
+  <circle cx="190" cy="190" r="175" fill="#FFFFFF" stroke="#D4AF37" stroke-width="8"/>
+  <!-- Tricolor Disc -->
+  <clipPath id="afgClip">
+    <circle cx="190" cy="190" r="160"/>
+  </clipPath>
+  <g clip-path="url(#afgClip)">
+    <rect x="30" y="30" width="107" height="320" fill="#000000"/>
+    <rect x="137" y="30" width="106" height="320" fill="#D32011"/>
+    <rect x="243" y="30" width="107" height="320" fill="#007A3D"/>
+  </g>
+  <!-- Wheat Sheaves around -->
+  <circle cx="190" cy="190" r="140" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-dasharray="8 12"/>
+  <!-- Central White Wicket and Ball -->
+  <g fill="#FFFFFF">
+    <circle cx="150" cy="180" r="14"/>
+    <rect x="175" y="140" width="14" height="95" rx="4"/>
+    <rect x="198" y="140" width="14" height="95" rx="4"/>
+  </g>
+  <!-- ACB Ribbon at bottom -->
+  <rect x="140" y="290" width="100" height="32" rx="8" fill="#D32011" stroke="#FFFFFF" stroke-width="3"/>
+  <text x="190" y="313" font-family="sans-serif" font-weight="900" font-size="20" fill="#FFFFFF" text-anchor="middle" letter-spacing="2">ACB</text>
+</svg>

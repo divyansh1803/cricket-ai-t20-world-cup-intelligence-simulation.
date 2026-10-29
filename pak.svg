@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <circle cx="200" cy="200" r="185" fill="#01411C" stroke="#15733A" stroke-width="8"/>
+  <circle cx="200" cy="200" r="165" fill="none" stroke="#E5B800" stroke-width="4"/>
+  <!-- Central Star -->
+  <polygon points="200,65 233,150 325,150 250,205 278,290 200,238 122,290 150,205 75,150 167,150" fill="#DAA520" stroke="#FFF8DC" stroke-width="3"/>
+  <!-- Urdu stylized crescent inside star center -->
+  <circle cx="200" cy="200" r="38" fill="#01411C"/>
+  <circle cx="210" cy="195" r="32" fill="#DAA520"/>
+  <text x="200" y="350" font-family="sans-serif" font-weight="900" font-size="30" fill="#FFFFFF" text-anchor="middle" letter-spacing="4">PCB</text>
+</svg>

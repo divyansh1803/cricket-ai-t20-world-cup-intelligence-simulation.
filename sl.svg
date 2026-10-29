@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 380" width="380" height="380">
+  <!-- Royal Blue Square with Gold Border -->
+  <rect x="15" y="15" width="350" height="350" rx="20" fill="#0D2F81" stroke="#F5B800" stroke-width="10"/>
+  <rect x="30" y="30" width="320" height="320" rx="14" fill="none" stroke="#F5B800" stroke-width="3"/>
+  <!-- Golden Lion holding Sword -->
+  <g fill="#F5B800" stroke="#B8860B" stroke-width="2" transform="translate(55, 60) scale(0.9)">
+    <!-- Sword -->
+    <rect x="65" y="10" width="10" height="110" rx="2"/>
+    <rect x="55" y="80" width="30" height="8" rx="2"/>
+    <circle cx="70" cy="125" r="8"/>
+    <!-- Lion Head & Mane -->
+    <path d="M100,50 Q130,20 160,35 Q180,20 200,45 Q210,70 190,90 Q170,110 130,95 Q100,90 100,50 Z"/>
+    <!-- Snout & Mouth -->
+    <path d="M90,55 L120,55 L115,75 L85,75 Z"/>
+    <!-- Lion Body -->
+    <path d="M130,95 Q190,85 240,115 Q260,150 240,185 Q180,195 130,165 Z"/>
+    <!-- Forelegs -->
+    <path d="M110,120 L80,95 L95,85 L130,110 L125,185 L105,185 Z"/>
+    <!-- Hind Legs & Tail -->
+    <path d="M220,140 Q260,120 270,175 L245,185 Q240,155 210,155 Z"/>
+    <path d="M240,115 Q285,90 280,45 Q270,35 260,50 Q265,80 235,100 Z"/>
+  </g>
+  <text x="190" y="300" font-family="serif" font-weight="bold" font-size="28" fill="#FFFFFF" text-anchor="middle">Sri Lanka</text>
+  <text x="190" y="330" font-family="sans-serif" font-weight="900" font-size="20" fill="#F5B800" text-anchor="middle" letter-spacing="3">CRICKET</text>
+</svg>
